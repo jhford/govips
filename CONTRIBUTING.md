@@ -17,7 +17,3 @@ The Travis build currently checks strict format and linting, so be sure to add c
 ```sh
 go test
 ```
-
-## Get in touch
-
-Have a question not covered here? Feel free to email me at [david.byttow@gmail.com](mailto:david.byttow@gmail.com)
